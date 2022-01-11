@@ -1,0 +1,13 @@
+# Bild.de
+@@||www.asadcdn.com^
+@@||bildstatic.de^
+@@||de.ioam.de^
+@@||json.bild.de^
+@@||ioam.de^
+@@||tags.tiqcdn.com^
+@@||tagger.opecloud.com^
+@@||cdn1.smartadserver.com^
+@@||ec-ns.sascdn.com^
+@@||asadcdn.com^
+@@||acdn.adnxs.com^
+@@||akamaihd.net^
